@@ -1,0 +1,35 @@
+tensorflow-gpu==2.2.0
+tensorflow==2.2.0
+nas-bench-201==1.3
+pybnn
+autograd>=1.3
+click
+Cython
+ConfigSpace==0.4.12
+ipython
+lightgbm>=2.3.1
+matplotlib
+numpy
+pandas
+pathvalidate
+Pillow>=7.1.2
+psutil
+pyyaml
+scikit-image
+scikit-learn>=0.23.1
+scipy
+seaborn
+statsmodels
+tensorboard
+tensorflow-estimator
+tqdm
+xgboost
+python-Levenshtein
+pyyaml
+cupy
+scikit-learn-extra
+torch-scatter -f https://data.pyg.org/whl/torch-1.11.0+$cu116.html
+torch-sparse -f https://data.pyg.org/whl/torch-1.11.0+$cu116.html
+torch-cluster -f https://data.pyg.org/whl/torch-1.11.0+$cu116.html
+torch-spline-conv -f https://data.pyg.org/whl/torch-1.11.0+$cu116.html
+torch-geometric
